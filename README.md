@@ -1,3 +1,22 @@
+---
+
+#### Lesson 1: Install Php, Mysql, & Composer
+
+---
+
+[![Laravel 7 From Scratch](https://i.ytimg.com/vi/R6qMg3lhLco/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB1mGIOWrpvZShl7fyZpaBZmr8LAQ)](https://www.youtube.com/watch?v=R6qMg3lhLco)
+
+
+---
+
+#### Lesson 2: The Laravel Installer
+
+---
+
+[![Laravel 7 From Scratch](https://i9.ytimg.com/vi/N8mSAJk_JQI/mqdefault.jpg?time=1592947723162&sqp=CKzmyfcF&rs=AOn4CLDlWzoIpi7GRI_kmrzM3AUDA23X2w)](https://www.youtube.com/watch?v=N8mSAJk_JQI)
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
