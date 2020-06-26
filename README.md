@@ -18,11 +18,20 @@
 
 ---
 
-### Laravel 3: Laravel Valet (Extra Credit, Not Installable On Windows)
+#### Lesson 3: Laravel Valet (Extra Credit, Not Installable On Windows)
 
 ---
 
-[![Laravel 7 Laravel Valet](https://i.ytimg.com/vi/VUinIGTR60w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCtBw-WK1UiOsRgtAEY61lOddTlUQ.jpg)](https://www.youtube.com/watch?v=N8mSAJk_JQI&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=3)
+[![Laravel 7 Laravel Valet](https://i.ytimg.com/vi/edyf-JMW6vM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBC5ss0PLChme2VK9pPgv1vGvj9TQ.jpg)](https://www.youtube.com/watch?v=N8mSAJk_JQI&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=3)
+
+---
+
+#### Lesson 4: Basic Routing And Views
+
+---
+
+[![Laravel 7 Basic Routing & Views](https://i.ytimg.com/vi/VUinIGTR60w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCtBw-WK1UiOsRgtAEY61lOddTlUQ.jpg)](https://www.youtube.com/watch?v=edyf-JMW6vM&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=5&t=0s)
+
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
