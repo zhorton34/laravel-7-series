@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/home', function () {
-   return ['name' => 'sam'];
+    return view('home', request()->input());
 });
