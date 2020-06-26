@@ -30,7 +30,7 @@
 
 ---
 
-[![Laravel 7 Basic Routing & Views](https://i.ytimg.com/vi/VUinIGTR60w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCtBw-WK1UiOsRgtAEY61lOddTlUQ.jpg)](https://www.youtube.com/watch?v=edyf-JMW6vM&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=5&t=0s)
+[![Laravel 7 Basic Routing & Views](https://i.ytimg.com/vi/edyf-JMW6vM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBC5ss0PLChme2VK9pPgv1vGvj9TQ)](https://www.youtube.com/watch?v=edyf-JMW6vM&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=5&t=0s)
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
