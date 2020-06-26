@@ -4,7 +4,7 @@
 
 ---
 
-[![Laravel 7 From Scratch](https://i.ytimg.com/vi/R6qMg3lhLco/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB1mGIOWrpvZShl7fyZpaBZmr8LAQ)](https://www.youtube.com/watch?v=R6qMg3lhLco)
+[![Laravel 7 From The Ground Up](https://i.ytimg.com/vi/R6qMg3lhLco/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB1mGIOWrpvZShl7fyZpaBZmr8LAQ)](https://www.youtube.com/watch?v=R6qMg3lhLco)
 
 
 ---
@@ -13,9 +13,16 @@
 
 ---
 
-[![Laravel 7 From Scratch](https://i9.ytimg.com/vi/N8mSAJk_JQI/mqdefault.jpg?time=1592947723162&sqp=CKzmyfcF&rs=AOn4CLDlWzoIpi7GRI_kmrzM3AUDA23X2w)](https://www.youtube.com/watch?v=N8mSAJk_JQI)
+[![Laravel 7 The Laravel Installer](https://i.ytimg.com/vi/N8mSAJk_JQI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCol4ku_HYaXUPK1pnlVsxzxcLjwQ.jpg)](https://www.youtube.com/watch?v=N8mSAJk_JQI&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=2)
 
 
+---
+
+### Laravel 3: Laravel Valet (Extra Credit, Not Installable On Windows)
+
+---
+
+[![Laravel 7 Laravel Valet](https://i.ytimg.com/vi/VUinIGTR60w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCtBw-WK1UiOsRgtAEY61lOddTlUQ.jpg)](https://www.youtube.com/watch?v=N8mSAJk_JQI&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=3)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
