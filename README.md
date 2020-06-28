@@ -48,7 +48,7 @@
 
 ---
 
-[![Laravel 7 Wildard Route Parameters (Required, Optional, & Constraints)](https://i.ytimg.com/vi/KGz6jLUvfvU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDy7yf-705NiZIMV-XWWCMpVm74Gw.jpg)](https://www.youtube.com/watch?v=LBWb0wKQDp8&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=6)
+[![Laravel 7 Wild card Route Parameters (Required, Optional, & Constraints)](https://i.ytimg.com/vi/KGz6jLUvfvU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDy7yf-705NiZIMV-XWWCMpVm74Gw.jpg)](https://www.youtube.com/watch?v=KGz6jLUvfvU&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=6)
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
