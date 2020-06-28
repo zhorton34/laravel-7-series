@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home', function () {
-    return view('home', request()->input());
-});
+Route::get('/home/{id}', function () {
+    dd(request('id'));
+})->where('id', '[0-9]+');
