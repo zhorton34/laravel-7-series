@@ -41,6 +41,22 @@
 
 [![Laravel 7 Pass Request Data Into Views](https://i.ytimg.com/vi/LBWb0wKQDp8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLA5p0uM6SkiEB5CSvyuu2lJ_XHrtA.jpg)](https://www.youtube.com/watch?v=LBWb0wKQDp8&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=5)
 
+---
+
+#### Lesson 6: Wildcard Route Parameters (Required, Options, & Constraints)
+
+---
+[![Laravel 7 Lesson 6 Thumbnail](https://i.ytimg.com/vi/KGz6jLUvfvU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDy7yf-705NiZIMV-XWWCMpVm74Gw.jpg)](https://www.youtube.com/watch?v=KGz6jLUvfvU&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=7&t=0s)
+
+
+---
+
+#### Lesson 7: Routes ~ View, Fallback, & Redirects
+
+---
+[![Laravel 7 Lesson 7 Thumbnail](https://i.ytimg.com/vi/Coyz2XssnwM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDAJX9PMhB_uSgG7J9YPBkLlAKz0g.jpg)](https://www.youtube.com/watch?v=Coyz2XssnwM&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=8)
+
+
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 

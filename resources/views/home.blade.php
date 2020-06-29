@@ -5,7 +5,7 @@
 </head>
 <body>
     <div>
-        {{ $name }} {{ $id }} <small>({{ $email }})</small>
+        {{ $id }}
     </div>
 </body>
 </html>
