@@ -13,10 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::get('/home', function () {
-    return view('home', request()->input());
-});
+Route::view('/', 'welcome');
+
+Route::get('/home/{id}', fn ($id) => [
+    'id' => $id
+])->where('id', '[0-9]+');
+
+
