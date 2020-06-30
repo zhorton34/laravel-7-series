@@ -13,7 +13,7 @@ class PostController extends Controller
      */
     public function index()
     {
-        return ['post 0', 'post 1', 'post 2'];
+        return \DB::table('posts')->get();
     }
 
     /**
