@@ -57,6 +57,12 @@
 [![Laravel 7 Lesson 7 Thumbnail](https://i.ytimg.com/vi/Coyz2XssnwM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDAJX9PMhB_uSgG7J9YPBkLlAKz0g.jpg)](https://www.youtube.com/watch?v=Coyz2XssnwM&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=8)
 
 
+---
+
+#### Lesson 8: Controllers (Simple to Resourceful)
+
+---
+[![Laravel 7 Lesson 8 Thumbnail](https://i.ytimg.com/vi/x90WXxY6kPo/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAlaFK3g-C3mGMVQnptsDEfz87vzA)](https://www.youtube.com/watch?v=x90WXxY6kPo&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=9)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
