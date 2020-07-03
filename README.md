@@ -62,7 +62,29 @@
 #### Lesson 8: Controllers (Simple to Resourceful)
 
 ---
+
 [![Laravel 7 Lesson 8 Thumbnail](https://i.ytimg.com/vi/x90WXxY6kPo/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAlaFK3g-C3mGMVQnptsDEfz87vzA)](https://www.youtube.com/watch?v=x90WXxY6kPo&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=9)
+
+
+---
+
+#### Lesson 9: Database Connection (+ UserInterface via PhpMyAdmin)
+
+---
+
+[![Laravel 7 Lesson 9 Thumbnail](https://i.ytimg.com/vi/ij4ZhDiibXY/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAVVe_1M9u9K8QPHNkwljJm3sMALA.jpg)](https://www.youtube.com/watch?v=ij4ZhDiibXY&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=10)
+
+
+
+---
+
+#### Lesson 10: Laravel Eloquent Models (Query Builder)
+
+---
+
+[![Laravel 7 Lesson 10 Thumbnail](https://i.ytimg.com/vi/gtk_cE5tVdE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLC8LJktu7uKH0SlUAeVGchmEw2gGQ.jpg)](https://www.youtube.com/watch?v=gtk_cE5tVdE&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=11&t=0s)
+
+
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
