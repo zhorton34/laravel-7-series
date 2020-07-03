@@ -84,6 +84,15 @@
 
 [![Laravel 7 Lesson 10 Thumbnail](https://i.ytimg.com/vi/gtk_cE5tVdE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLC8LJktu7uKH0SlUAeVGchmEw2gGQ.jpg)](https://www.youtube.com/watch?v=gtk_cE5tVdE&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=11&t=0s)
 
+---
+
+#### Lesson 11: Laravel Migrations (Database Basics)
+
+---
+
+[![Laravel 7 Lesson 11 Thumbnail](https://i.ytimg.com/vi/2_lMV1laDoU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDFzwEkdSTHM2Kh0U5tbZXyoZwsEA.jpg)](https://www.youtube.com/watch?v=2_lMV1laDoU&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=12&t=0s)
+
+
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
