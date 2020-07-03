@@ -93,6 +93,13 @@
 [![Laravel 7 Lesson 11 Thumbnail](https://i.ytimg.com/vi/2_lMV1laDoU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDFzwEkdSTHM2Kh0U5tbZXyoZwsEA.jpg)](https://www.youtube.com/watch?v=2_lMV1laDoU&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=12&t=0s)
 
 
+---
+
+#### Lesson 12: Laravel Factories & Seeds (Dummy Data For Database)
+
+---
+
+[![Laravel 7 Lesson 12 Thumbnail](https://i.ytimg.com/vi/FbARge88vjk/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLArt9dH7IMOUDZxFmK_CW48fDEOKA.jpg)](https://www.youtube.com/watch?v=FbARge88vjk&list=PLNuh5_K9dfQ19qdctqBIhpLttnLo3QYi0&index=13)
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
