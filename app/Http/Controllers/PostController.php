@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use DB;
+use App\Post;
 use Illuminate\Http\Request;
 
 class PostController extends Controller
@@ -9,15 +11,13 @@ class PostController extends Controller
     /* Display a listing of the resource. */
     public function index()
     {
-        return \DB::table('posts')->get();
+        return Post::get();
     }
 
     /* Display the specified resource. */
     public function show($id)
     {
-        $posts = ['post 0', 'post 1', 'post 2', 'post 3'];
-
-        return ['show' => $posts[$id]];
+        return Post::findOrFail($id);
     }
 
 
