@@ -14,7 +14,9 @@ class PostController extends Controller
      */
     public function index()
     {
-        return Post::get();
+        $posts = Post::get();
+
+        return view('posts.index', compact('posts'));
     }
 
     /**
@@ -25,7 +27,9 @@ class PostController extends Controller
      */
     public function show($post)
     {
-        return Post::where('id', $post)->get();
+        $post = Post::find($post);
+
+        return view('posts.show', compact('post'));
     }
 
 
